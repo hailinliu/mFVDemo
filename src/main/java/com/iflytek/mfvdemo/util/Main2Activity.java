@@ -13,5 +13,6 @@ public class Main2Activity extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main2);
         EditText editText = (EditText)findViewById(R.id.edt_group_id);
+        editText.getText();
     }
 }
