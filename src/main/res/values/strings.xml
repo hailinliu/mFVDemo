@@ -52,13 +52,13 @@
     <string name="login_hint_interrupted">检测到操作被打断，请重试</string>
     <!-- 混合验证登录结果界面 -->
     <string name="login_result_txt_title">登录结果</string>
-     <!-- 鉴别组管理页面文字 -->
-	<string name="txt_group_create">创建组，用于鉴别</string>
-	<string name="hint_group_create">请输入组名，15个字符以内</string>
-	<string name="txt_group_add">加入组</string>
-	<string name="hint_group_add">请输入组id</string>
-	<string name="txt_group_mygroup">已创建的组</string>
-	<string name="btn_group_create">创建</string>
-	<string name="btn_group_add">加入</string>
+    <!-- 鉴别组管理页面文字 -->
+    <string name="txt_group_create">创建组，用于鉴别</string>
+    <string name="hint_group_create">请输入组名，15个字符以内</string>
+    <string name="txt_group_add">加入组</string>
+    <string name="hint_group_add">请输入组id</string>
+    <string name="txt_group_mygroup">已创建的组</string>
+    <string name="btn_group_create">创建</string>
+    <string name="btn_group_add">加入</string>
     <string name="txt_group">鉴别组管理</string>
 </resources>
